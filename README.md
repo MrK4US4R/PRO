@@ -38,6 +38,6 @@
 
 - `python PRO.py`
 # OR
--`cd PRO`
--`python PRO-FREE.py`
+- `cd PRO`
+- `python PRO-FREE.py`
 
