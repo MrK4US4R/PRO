@@ -37,4 +37,7 @@
 - `cd PRO`
 
 - `python PRO.py`
+# OR
+-`cd PRO`
+-`python PRO-FREE.py`
 
